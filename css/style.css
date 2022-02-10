@@ -91,7 +91,7 @@ Index
 }
 
 #index .index-inner .index-list li {
-    margin-bottom: 20px;
+    margin-bottom: 20px;    
 }
 
 /*
@@ -126,6 +126,8 @@ justify-content: space-between;
 画像の下にできる隙間を消す
 */
 .list li img {
+    width:392px;
+    height:260px;
     vertical-align: bottom;
 }
 
